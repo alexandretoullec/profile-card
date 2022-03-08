@@ -269,7 +269,7 @@ body{
 }
 
 
-@media (max-width:501px){
+@media (max-width:1000px){
     body{
         background-position: -650px -500px, 80px 600px;
     }
@@ -279,3 +279,4 @@ body{
         margin: 2rem;
     }
 }
+
